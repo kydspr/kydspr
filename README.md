@@ -1,40 +1,68 @@
 <div align="center">
 
-# Hey, I'm Kydspr 👋
+<img src="assets/mountain-banner.jpg" alt="Mountain panorama at dusk" width="100%" />
 
-### Full-Stack Developer · Backend Engineer · Curious Explorer
+<br>
 
-**Building useful things with code — and finding inspiration beyond the screen.**
+# Hi, I'm `@kydspr` 👋
 
-[GitHub](https://github.com/kydspr) · [Instagram](www.instagram.com/kydspr) · [LinkedIn](www.linkedin.com/in/kydspr) · [Portfolio](https://kydspr.com)
+### FULL-STACK DEVELOPER · BACKEND ENGINEER · CURIOUS EXPLORER
+
+**Better software. A bigger tomorrow.**
+
+[GitHub](https://github.com/kydspr) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/kydspr) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/kydspr) &nbsp;·&nbsp; [Portfolio](https://kydspr.com)
 
 </div>
 
 ---
 
-## About Me
+<table>
+<tr>
+<td width="62%" valign="top">
 
-I'm a developer who enjoys turning ideas into practical digital products. I work across the stack, with a strong focus on backend engineering, APIs, and building reliable web applications.
+## 👨‍💻 About Me
 
-I'm especially interested in **Laravel**, **Flutter**, and **AI-powered tools**—and I enjoy learning how to make software more useful, maintainable, and scalable.
+I'm a developer who enjoys turning ideas into useful digital products. I work across the stack—from backend systems and APIs to modern web interfaces and mobile apps.
 
-When I'm away from the screen, you'll likely find me hiking, running, exploring new places, or chasing a good view.
+I care about solving real problems, building maintainable systems, and continuously improving the way software is designed and delivered.
 
-> Great software isn't just about code. It's about solving real problems for real people.
+**Currently interested in:** Laravel · Flutter · AI · Full-Stack Engineering
 
-## What I Do
+> *Great software isn't just about code—it's about solving real problems for real people.*
 
-- **Web Development** — Building web applications, REST APIs, and maintainable backend systems with Laravel.
-- **Mobile Development** — Exploring cross-platform app development with Flutter and Dart.
-- **AI & Automation** — Experimenting with AI tools and smarter workflows.
-- **Backend & DevOps** — Working with databases, Linux, Nginx, deployment workflows, and application performance.
+## ⚙️ What I Do
 
-## Tech Stack
+### 🌐 Web Development
+Build web applications, REST APIs, and maintainable backend systems with Laravel.
+
+### 📱 Mobile Development
+Explore cross-platform app development with Flutter and Dart.
+
+### 🤖 AI & Automation
+Experiment with AI-powered tools and smarter workflows.
+
+### ☁️ Backend & DevOps
+Work with databases, Linux, Nginx, deployment workflows, and application performance.
+
+## 🚀 Featured Projects
+
+> Replace these examples with your actual repositories.
+
+| Project | What it is |
+|:--|:--|
+| [FilloHub](https://kydspr.com/fillohub) | Web application built with Laravel |
+| [SelangkahClvb](https://kydspr.com/selangkahclvb) | Cross-platform mobile app with Flutter |
+| [Fillo Projects](https://kydspr.com/filloprojects) | Backend service or API |
+
+</td>
+<td width="38%" valign="top">
+
+## 🧰 Tech Stack
 
 **Backend**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
@@ -55,44 +83,42 @@ When I'm away from the screen, you'll likely find me hiking, running, exploring 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Featured Projects
+## 🏔️ Beyond Coding
 
-> Replace these examples with repositories you want to highlight.
+**Hiking & Outdoors**  
+Finding perspective on the trail.
 
-| Project | Description |
-| --- | --- |
-| [Project One](#) | A web application built with Laravel. |
-| [Project Two](#) | A mobile app built with Flutter. |
-| [Project Three](#) | A backend service or API project. |
+**Running**  
+Building consistency, one step at a time.
 
-## Beyond Coding
+**Exploring**  
+Discovering new places and collecting experiences.
 
-🏔️ **Hiking & Outdoors** — Finding perspective on the trail.  
-🏃 **Running** — Building consistency, one step at a time.  
-🌊 **Exploring** — Discovering new places and collecting experiences.
+## 🎯 Current Focus
 
-## Currently Focused On
+- Building reliable, maintainable applications
+- Improving full-stack engineering skills
+- Exploring practical AI and automation
+- Learning continuously through hands-on projects
 
-- Building reliable, maintainable applications.
-- Improving full-stack engineering skills.
-- Exploring practical uses for AI and automation.
-- Learning continuously and sharing useful work.
-
-## Let's Connect
-
-Have an interesting project, idea, or technical topic to discuss? Feel free to reach out.
-
-- GitHub: [@kydspr](https://github.com/kydspr)
-- Instagram: [@kydspr](www.instagram.com/kydspr)
-- LinkedIn: [Debo](www.linkedin.com/in/kydspr)
-- Portfolio: [Kydspr](https://kydspr.com)
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-*Build with purpose. Explore without limits. Never stop growing.*
+### LET'S CONNECT
 
-**CODE · BUILD · EXPLORE**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kydspr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1724?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC)](YOUR_PORTFOLIO_URL)
+
+<br>
+
+**CODE&nbsp; / &nbsp;BUILD&nbsp; / &nbsp;EXPLORE**
+
+*Build with purpose. Explore without limits. Never stop growing.*
 
 </div>
